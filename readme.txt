@@ -29,4 +29,4 @@ I'm passionate about exploring data that affects how people consume content. Thi
 
 ---
 
-Feel free to check out my full portfolio [here](https://github.com/your-username)!
+Feel free to check out my full portfolio [here](https://github.com/moriadim)!
